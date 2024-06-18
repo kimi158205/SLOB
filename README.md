@@ -1,44 +1,45 @@
-# SLOB
-Leerdoelen en bijbehorende opdrachten:
+# README: SLOB
 
-Weet goed wat deze opleiding inhoudt en of deze opleiding bij je past
-*Brief aan de mentor
-*Vragenlijst over hard en softskills voor een match met een stageplek
+## Leerdoelen en Bijbehorende Opdrachten
 
-Je kunt je persoonlijke kwaliteiten benoemen en uitleggen
-*LinkedIn profiel aanmaken
-*Disc test
-*360 graden feedback
+### 1. Weet goed wat deze opleiding inhoudt en of deze opleiding bij je past
+- **Brief aan de mentor**
+- **Vragenlijst over hard en softskills voor een match met een stageplek**
 
-Je ontwikkelt studievaardigheden en kunt deze inzetten
-*Week en dagplanner
-*Doelen SMART formuleren
+### 2. Je kunt je persoonlijke kwaliteiten benoemen en uitleggen
+- **LinkedIn profiel aanmaken**
+- **DISC test**
+- **360 graden feedback**
 
-Je kunt reflecteren volgens verschillende manieren en deze inzetten
-*Reflecteren STARR model
-*Reflecteren hand model
+### 3. Je ontwikkelt studievaardigheden en kunt deze inzetten
+- **Week- en dagplanner**
+- **Doelen SMART formuleren**
 
-Je krijgt meer inzicht in jouw motieven om in de ICT te werken
-*Omschrijving van Ideale baan
-*Disc test
-*Vragenlijst over hard en softskills voor een match met een stageplek
+### 4. Je kunt reflecteren volgens verschillende manieren en deze inzetten
+- **Reflecteren met het STARR model**
+- **Reflecteren met het handmodel**
 
-Je ontwikkelt je persoonlijk maar ook beroepsmatig
-*LinkedIn profiel aanmaken
-*360 graden feedback
+### 5. Je krijgt meer inzicht in jouw motieven om in de ICT te werken
+- **Omschrijving van je ideale baan**
+- **DISC test**
+- **Vragenlijst over hard en softskills voor een match met een stageplek**
 
-Je weet wat een goede beroepshouding is, en wat het beroep inhoudt
-*Stage voorbereiding (sollicitatiebrief, mail en belscript)
-*Bewijsmateriaal voor Kerntaken en werkprocessen van het kwalificatie dossier software developer
+### 6. Je ontwikkelt je persoonlijk maar ook beroepsmatig
+- **LinkedIn profiel aanmaken**
+- **360 graden feedback**
 
-Je weet in welke branches je kunt werken als je gediplomeerd bent en wat het werk inhoudt
-*Bewijsmateriaal voor Kerntaken en werkprocessen van het kwalificatie dossier software developer
-*LinkedIn profiel aanmaken
+### 7. Je weet wat een goede beroepshouding is, en wat het beroep inhoudt
+- **Stage voorbereiding (sollicitatiebrief, mail en belscript)**
+- **Bewijsmateriaal voor kerntaken en werkprocessen van het kwalificatiedossier software developer**
 
-Je maakt een beargumenteerde keuze over het vervolg na je opleiding
-*Brief aan de mentor
-*Omschrijving van Ideale baan
+### 8. Je weet in welke branches je kunt werken als je gediplomeerd bent en wat het werk inhoudt
+- **Bewijsmateriaal voor kerntaken en werkprocessen van het kwalificatiedossier software developer**
+- **LinkedIn profiel aanmaken**
 
-Je leert verantwoordelijkheid te nemen voor je eigen leerproces
-*Week en dagplanner
-*Doelen SMART formuleren
+### 9. Je maakt een beargumenteerde keuze over het vervolg na je opleiding
+- **Brief aan de mentor**
+- **Omschrijving van je ideale baan**
+
+### 10. Je leert verantwoordelijkheid te nemen voor je eigen leerproces
+- **Week- en dagplanner**
+- **Doelen SMART formuleren**
